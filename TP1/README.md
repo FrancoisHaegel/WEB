@@ -1,8 +1,8 @@
-#TP1 - Formulaire d'incription pour un utilisateur
+# TP1 - Formulaire d'incription pour un utilisateur
 
 Le formulaire permet à un utilisateur de renseigner des informations basiques.
 
-###Les vérifications faites sur les champs sont les suivantes : 
+### Les vérifications faites sur les champs sont les suivantes : 
 
  - Nom et Prénom : doit ne contenir que des lettre, ne doit pas faire plus de 20 caractères.
  - Identifiant : doit ne contenir que des lettres et des chiffres, ne doit pas faire plus de 20 caractères.
