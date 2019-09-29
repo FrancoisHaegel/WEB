@@ -13,3 +13,9 @@ Le formulaire permet à un utilisateur de renseigner des informations basiques.
  - Adresse : doit ne contenir que des lettres, des chiffres, et les caractères spéciaux suivants : tiret, point, virgule, apostrophe, et espace. 
  - E-Mail : doit être au format suivant "example@123.com".
  - N° de téléphone : doit être à un de ces formats : "0X XX XX XX XX", "+33 X XX XX XX XX" ou "00 33 XX XX XX XX".
+
+### Autres : 
+
+ - Navigateur utilisé : Chrome
+ - Framework UI : Materialize
+ - Temps pour réaliser le TP : ~4 heures (éstimé 2 heures)
